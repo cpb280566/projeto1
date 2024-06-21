@@ -37,6 +37,10 @@ body{
    
 }
 
+.menu a:hover{
+    background-color: rgb(243, 18, 18);
+}
+
 img{
     width: 100px;
     border-radius: 50%;
@@ -57,9 +61,6 @@ h2{
     font-size: 20px;
 }
 
-.menu a:hover{
-    background-color: rgb(243, 18, 18);
-}
 
 .coti{
     color: #222831;
